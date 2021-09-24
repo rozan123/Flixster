@@ -29,9 +29,7 @@ Time spent: **5** hours spent in total
 <img src="https://github.com/rozan123/Flixster/blob/master/Flixster_part2_Walkthrough.gif" width=250><br>
 
 ### Notes
-
-Describe any challenges encountered while building the app.
-I was spending more time to understand and learn the coding however, the walkthrough video tutorial helps a lot to do the assignments.
+I have spent more time to understand and learn the code. Besides that, the walkthrough video tutorial helps a lot to do the assignments.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
